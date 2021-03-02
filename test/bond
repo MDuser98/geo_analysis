@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #read file name and work with it
-read -p "please input the file name(e.g example.gjf):" name
+read -p "please input the file name(e.g example.gjf or example.xyz):" name
 #echo $name
 read -p "please input the number of atoms:" number
 i=1
