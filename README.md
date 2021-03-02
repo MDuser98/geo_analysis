@@ -4,3 +4,4 @@ the binary file——bond is used to pretreatment the xyz file or gjf file to ge
 
 need pandas, math, numpy
 
+Count the bond length, bond angle, and dihedral angle of molecules
